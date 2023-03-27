@@ -43,7 +43,7 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: M.Mano
 RegisterNumber:  212221040100
 */
-```
+
 
 ## Output:
 ![best fit line](sam.png)
