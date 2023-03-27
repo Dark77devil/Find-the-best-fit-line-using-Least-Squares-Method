@@ -1,6 +1,6 @@
-*/Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: j.deepika
-RegisterNumber: 212221230016 */
+*/Program to implement univariate Linear Regression to fit a straight line using least squares.  
+Developed by: j.deepika  
+RegisterNumber: 212221230016 */  
 
 import numpy as np
 import matplotlib.pyplot as plt
